@@ -43,6 +43,14 @@ ls
 cd ./newStart
 12.touch is to file create & nano is used file editor
 touch hello.txt(to create a tex file)
-
+13.nano hello.txt(to create a editor for typing)
+hello1
+14.ctrl+x(to exit)
+15.cat hello.text (to check whether a word is written or not)
+16.vi fun.txt(don't need nano editor)
+17.rm fun.txt(to remove an editor)
+18rm -rf *(to remove more files).
+19.rmdir newF(to remove directory)
+20.mv fun.txt to ../Desktop(to move files to particular destination)
 
 
