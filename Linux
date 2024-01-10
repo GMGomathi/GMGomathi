@@ -12,4 +12,37 @@ In os, where the kernel - does 80% of work of operating system.
 Benefits - Flexible,light weight,highly configurable,malware free.awesome development.
 Stable - large community - performance
 Diff between Unix & Linux -Unix -It is an os & paid version. Linus - It is kernel packed with different distribution into a complete os, where the design principles of unix is shared but no the source code.
-Linus Distro -Linux Distribution - Reason to make Linux installation easiler Eg. Red Hat & Ubuntu- Old distro - Vpn .Even paid version of distro also exists.
+Linux Distro -Linux Distribution - Reason to make Linux installation easiler Eg. Red Hat & Ubuntu- Old distro - Vpn .Even paid version of distro also exists.
+Linux Architecture - "Hardware" - harddisk, monitor, keybord,"Kernel"-Mangages RAM & I/O - CPU, GPU,RAM,"Shell - command line,-Application - Microsoft
+Linux Kernel - Schedulers,File System,Security,Network,Driver.
+Linux Kernel  uses,- System Libraries - functions, System Software - Os, User process.
+linux - Kernel,Shell, file,packacet amnager & user
+Kernel - Enables us to use all the hardwares.
+Kernel has two types of mode : User model & Kernel mode.
+Shell - an interface to talk to the kernel.Two types: command line interface- Basch shell & graphical user interface.B
+File -Media files..etc
+Package manager -To download -In ubuntu apm
+User- Root user - Having more access & Normal user
+Linux Installation - 1.Using Virtual box,2.Using cloud.
+LinuX Installation - Virtual box - Oracle 2.Ubuntu image
+Working with Ubuntu - ctrl+d - terminal gets appeared.
+Commands
+1.pwd - (present working directory)
+2.ls -a(list all the hidden files)
+3.ls -al(list all the hidden files with meta data)
+4.ls -l(list the files  created with meta data in order_
+5.ls -ll(list all the files)
+6.ls (list all the folder)
+7.cd ./Document or cs /Document(change from one directory to another & change from one folder to another)
+8.cd..(to go to prenious directory)
+9.cd -(will take to previous location / root node )
+10.mkdir newFolder(making directory)
+11.Task - create a newStart directory
+mkdir newStart
+ls
+cd ./newStart
+12.touch is to file create & nano is used file editor
+touch hello.txt(to create a tex file)
+
+
+
