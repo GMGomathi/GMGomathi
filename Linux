@@ -11,4 +11,5 @@ Linux - Kernal, it forms big part of operating system.
 In os, where the kernel - does 80% of work of operating system.
 Benefits - Flexible,light weight,highly configurable,malware free.awesome development.
 Stable - large community - performance
-Diff between Unix & Linux -Unix -It is an os & paid version. Linus - It is also an os & kernel, where the design principles of unix is shared but no the source code.
+Diff between Unix & Linux -Unix -It is an os & paid version. Linus - It is kernel packed with different distribution into a complete os, where the design principles of unix is shared but no the source code.
+Linus Distro -Linux Distribution - Reason to make Linux installation easiler Eg. Red Hat & Ubuntu- Old distro - Vpn .Even paid version of distro also exists.
