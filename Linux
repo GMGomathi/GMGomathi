@@ -51,6 +51,27 @@ hello1
 17.rm fun.txt(to remove an editor)
 18rm -rf *(to remove more files).
 19.rmdir newF(to remove directory)
-20.mv fun.txt to ../Desktop(to move files to particular destination)
-
-
+20.mv fun.txt to ../Desktop/(to move files to particular destination)
+21.cp fun.txt to ../Desktop/(to move files to particular destination)
+22.uname(type of kernal, you are using)
+23.uname -r(type of kernal number)
+24.uname -a(type of kernal all details)
+25.whoami(who am i)
+26.sudo su(switch to root user from command line interface)
+27.ctrl+l(to clear)
+28.clear(to clear)
+29.sudo - temporary super power access.
+30chmod-(to change mod)
+31.terminal is smart - auto completing
+32.up arrow key-(older command) & down arrow key-latest command()
+33.history(history)
+34.echo"hello world"-to print statements.
+35.cal(calender)
+36.bc(calculator)
+37.ctrl +z(to stop the calculator)
+38.ping/curl google.com(to go to web )
+39.java --version(to know the version)
+40.tar zxf fun.txt(upzip the file)
+41.sudo apt update(package manager to update list)
+42.sudo apt install tree(to install tree)
+43.trre (graphical represntation of the directory and files allocation)
