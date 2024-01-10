@@ -5,3 +5,7 @@ OS - Operating System is an interface between Hardware & Software.
 OS manages - Memories, manages queue of request,responsible for i/o ,multile drivers.
 OS types - Generic - eg (Windows, MAC, Linux) & Specific - (Smart Watches, fridges, )
 Unix- Grandfather of all operating system.
+Linus - Father of all operating system.
+Unix is different from Linux , in the matter of its open souce.
+Linux - Kernal, it forms big part of operating system. 
+In os, where the kernel - does 80% of work of operating system.
